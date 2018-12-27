@@ -40,4 +40,4 @@ URI: http://localhost:8080/DeviceApi/api/device/getDevices
 
 **Aclaración**
 
--Este proyecto es solo un comienzo, se necesita implementar el modelo, por ahora solo es un objeto en memoria, como también implementar la inyección de dependencias.
+-Este proyecto es solo un comienzo, se necesita implementar el modelo, por ahora solo es un objeto en memoria, como también implementar la inyección de dependencias. Como así también el manejo más profundo de errores. Vuelvo a aclarar, es solo una base que forma parte de un ejercicio.
